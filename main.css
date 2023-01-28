@@ -1,0 +1,36 @@
+body {
+    width: 800px;
+    max-width: 100%;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-left: 5px;
+}
+
+label {
+    text-align: start;
+    margin: 5px;
+    display: block;
+}
+
+textarea {
+    width: 95%;
+    margin: auto;
+}
+
+input {
+    margin: 0 5px 5px;
+}
+
+button {
+    margin: 10px 20px;
+    border-radius: 2px;
+
+}
+
+button:hover {
+    background-color: red;
+    color: white;
+}
